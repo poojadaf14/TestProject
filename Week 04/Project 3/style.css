@@ -11,33 +11,22 @@ body{
 nav{
     display: flex;
     list-style: none;
-    margin-left: 14%;
+
 }
 
 nav img{
-
-    margin: 15px;
     height: 10%;
 }
 nav ul{
     display: flex;
     list-style: none;
     align-items: center; 
-    margin-left: 22%;
-
 } 
 nav ul li{
     margin: 20px;
 }
 
-/* css for mainsection */
 
-/* uppermain */
-main{
-    display: flex;
-    margin: 50px;
-
-}
 .leftmain{
     width:50%; 
     margin-left:10% ;
