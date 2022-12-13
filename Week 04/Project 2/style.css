@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{   
+    background-color: #ffffff;
+    margin: auto;
+    overflow: hidden;
+
+    
+
+}
+nav{
+    height: 15vh;
+    display: flex; 
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5%;
+} 
+
+nav ul{
+    list-style: none;
+    display: flex; 
+    margin-left: 40%
+}
+
+nav ul li{
+    padding: 35px;
+}
+
+/* main section */
+main{
+    display: flex;
+
+
+}
+
+/* left section */
+.leftsection{
+    width: 55%;
+    margin-top: 40px;
+}
+
+.leftsection{
+    margin-left: 7%;
+    position: relative;
+}
+
+.topangle{
+    width: 25px;
+}
+.leftsection h1{
+    font-size: 80px;
+    font-weight: bold;
+}
+.leftsection p{
+
+font-size: 21px;
+font-weight: 500px;
+margin: 20px 0;
+color: #6b6868c0;
+
+}
+
+
+.bottomangle{
+    width: 25px;
+    position: absolute;
+    right: 22%;
+}
+
+.sthethoscope{
+    position: absolute;
+    width: 75%;
+    top: -95px;
+    right: -20px;
+    z-index: -1;
+
+}
+
+.mouse{
+    position: absolute;
+    right: 13%; 
+    bottom: 0px;
+
+}
+
+
+
+/* right section */
+.rightsection{
+    width: 45%;
+}
+
+.greenbox{
+    position: absolute;
+    right: 25px; 
+
+ 
+}
+
+.greenbox{
+    width: 33%;
+    bottom: 40px;
+}
+
+.yellowbox{
+position: absolute;
+right: 0px;
+} 
+
+.yellowbox{
+    width: 30%;
+    bottom: 40px;
+}
+
+
+.doctor{
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
+    height: 90%;
+}
