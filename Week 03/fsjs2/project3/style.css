@@ -13,21 +13,22 @@ body{
 nav{
     justify-content: space-between;
     display: flex;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-top: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 25px;
 
 }
 nav img{
     width: 10%;
     height: 5%;
+    margin-top: 5px;
 }
 
 nav ul{
     display: flex;
     list-style: none; 
     align-items: center;
-    margin-right: 35px;
+    margin-right: 20px;
 
 }
 
@@ -37,18 +38,18 @@ nav ul li{
 }
 
 .leftmain{
-    width: 45%;
-    margin-top: 7%;
+    width: 40%;
+    margin-top: 5%;
 }
 
 .img1{
-    width: 85%;
+    width: 80%;
 }
 .img2{
     position:absolute;
     width: 25%;
-    bottom: -180px;
-    left: 19.5%;
+    bottom: 30px;
+    left: 16%;
     z-index: -1;
 }
 
@@ -56,31 +57,33 @@ nav ul li{
  /* css for rightsection */
 
 .rightmain{
-    width: 55%;
-    margin-top: 3%;
+    width: 60%;
+    margin-top: 15px;
 }
  
 .globe{
     width: 8%;
     margin-left:20%;
+    margin-bottom:10px;
     
 
 }
 
 .star1{
     width:6%;
-    margin-left:90% ;
-    margin-bottom: 25px;
-    
+    margin-left:60%;
 }
 
  .rightmain h1{
-font-size: 75px;
+   font-size: 70px;
+   margin-top: 50px;
+   margin-left: 30px;
 }
 
 .rightmain p{
-    font-size: 17px;
-    margin-top: 35px;
+    font-size: 16px;
+    margin-top: 50px;
+    margin-left: 30px;
     text-align: center;
 }
  .email{
@@ -91,9 +94,6 @@ font-size: 75px;
     width: 170px; 
     font-size: 20px;
     
-    
-
-
  }
 
  .joinnow{
@@ -109,7 +109,7 @@ font-size: 75px;
 
  .contact{ 
     font-size: 20px;
-    margin-left: 50%;
+    margin-left: 30%;
 
  }
 
@@ -118,18 +118,18 @@ font-size: 75px;
     margin-left: 40px;
 }
 .one{
-    width: 7%;
-    margin: 10px;
+    width: 6%;
+    margin: 6px;
 }
 .two{
-    width: 7%;
-    margin: 10px;
+    width: 6%;
+    margin: 6px;
 }
 .three{
-    width: 7%;
-    margin: 10px;
+    width: 6%;
+    margin: 6px;
 }
 .four{
-    width: 7%;
-    margin: 10px;
+    width: 6%;
+    margin: 6px;
 }
