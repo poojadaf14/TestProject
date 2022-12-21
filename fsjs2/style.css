@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #fffffff1;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+
+nav{
+  margin: 15px;
+  display: inline-flex;
+  padding-left: 75px;
+  margin: 40px;
+  
+}
+
+ul{
+display: inline-flex
+
+
+}
+
+li{
+  list-style-type: none;
+  padding-left: 40px;
+
+
+
+}
+
+ 
+h1{
+  font-size: 80px;
+
+
+}
+.container{
+  width: 100%
+  }
+  
+  .leftman{
+    max-width: 45%;
+    float: left; 
+    padding-left:130px ;
+  
+
+  }
+  .rightman{
+    max-width: 55%
+    
+  }
+
+  
+
+
+
+
+
+
+
