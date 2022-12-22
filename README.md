@@ -52,5 +52,3 @@ Quotes
 
 ![](https://img.shields.io/badge/text-github-green)
 ![](https://img.shields.io/badge/text-github-orange)
-
-
